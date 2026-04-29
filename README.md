@@ -2,7 +2,7 @@
 
 > Agente financeiro com IA Generativa desenvolvido como solução para o Lab **"Bia do Futuro"** da [DIO](https://www.dio.me/).
 
-**Simaria** (Simulador de Empréstimos com IA) é uma assistente virtual consultiva que ajuda o usuário a entender o impacto real de um empréstimo no seu orçamento — calculando parcelas, analisando comprometimento de renda e orientando com clareza, segurança e sem jargões.
+**Simaria** (Simulador de Empréstimos com IA) é uma assistente virtual que apoia decisões financeiras, simulando empréstimos, calculando parcelas e avaliando o comprometimento da renda — tudo com linguagem simples, sem jargões e com foco na clareza para o usuário.
 
 ---
 
